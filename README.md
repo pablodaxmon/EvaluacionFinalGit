@@ -1,5 +1,5 @@
 Proyecto dojo Dodge
-version 0
+version 1
 Caracteristicas:
 - Caracteristica 1
 - caracteristica 2
